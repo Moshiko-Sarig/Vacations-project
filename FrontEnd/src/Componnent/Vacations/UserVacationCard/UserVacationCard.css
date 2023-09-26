@@ -1,0 +1,15 @@
+.follow {
+    color: blue;
+  font-size: 40px;
+}
+
+.unfollow{
+    color: black;
+    font-size: 40px;
+}
+
+.UserVacationCard{
+    display: grid;
+    grid-template-columns: auto auto auto;
+    padding: 10px;
+}

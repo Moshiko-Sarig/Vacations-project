@@ -1,0 +1,30 @@
+
+.adminWelcomeBack{
+  position: relative;
+  color: white;
+  font-size: medium;
+  left: 740%;
+
+}
+.userWelcomeBack{
+  position: relative;
+  color: white;
+  font-size: medium;
+  left:1640%;
+
+}
+
+.addVaction {
+  position: relative;
+  right: 150px;
+}
+
+.vactions{
+  position: relative;
+  right: 145px;
+}
+
+.LogOut{
+  position: relative;
+  right: 150px;
+}
